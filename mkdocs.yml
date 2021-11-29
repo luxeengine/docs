@@ -43,6 +43,9 @@ nav:
           - moving a sprite : manual/wip/moving-a-sprite.md
           - create a scene : manual/wip/create-a-scene.md
       - how to ...: manual/how-to.md
+      - editor:
+        - overview: manual/editor/overview.md
+        - tiles: manual/editor/tiles.md
       - runtime:
         - overview: manual/runtime/overview.md
       - asset pipeline:
@@ -122,5 +125,5 @@ plugins:
   - exclude:
       glob:
         - usage.md
-        # - api.md
-        # - api/**
+         # - api.md
+         # - api/**

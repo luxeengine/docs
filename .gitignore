@@ -1,3 +1,5 @@
 site/
 *.tmp*
 *.pyc
+.DS_Store
+venv/
